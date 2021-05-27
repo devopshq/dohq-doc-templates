@@ -5,7 +5,7 @@
 За подробностями можно обратиться к [Timur Gilmullin](https://github.com/Tim55667757) или [Alexander Pazdnikov](https://github.com/apazdnikov).
 
 **Шаблоны:**
-1. [Карта компетенций инженеров](./competence.md)
+1. [Карта компетенций инженеров DevOps](./competence.md)
 2. [Технологическая карта производственного процесса](./techmap.md)
 3. Анализ и планирование работ по долгосрочным задачам
 4. [Разбор полётов (постмортем, debriefing)](./debriefing.md)
